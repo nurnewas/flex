@@ -1,4 +1,15 @@
 .parent {
     padding: 25px;
     background: bisque;
+    display: flex;
+}
+
+.child {
+    border: solid red 2px;
+    background: aliceblue;
+    padding: 20px;
+    font-size: 28px;
+    margin: 10px 0px;
+    /* display: inline; */
+
 }
